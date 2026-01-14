@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @johnbeshay
-- 👀 I’m interested in programming, and physical activities such as working out.   
+- 👀 I’m interested in programming, And have built a high passion for software/web tevelopment over the corse of my studys.  
 - 🌱 I’m currently getting introduced to c++ coding language
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: via email on faridbeshy6@gmail.com ; or phone number: 917-530-5174
